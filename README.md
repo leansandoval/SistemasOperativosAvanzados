@@ -7,8 +7,8 @@ Repositorio dedicado al proyecto IoT mediante [Arduino](https://github.com/leand
 * **Cuatrimestre**: Segundo Cuatrimestre
 * **Año**: 2024
 
-## Trayecto Infraestructura
-* **Año académico**: Cuarto - Primer Cuatrimestre
+## Trayecto - Infraestructura
+* **Año académico**: Cuarto Año - Primer Cuatrimestre
 * **Responsable / Jefe de catedra**: Carnuccio, Esteban
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
