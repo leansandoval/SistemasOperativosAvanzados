@@ -102,7 +102,7 @@ Repositorio dedicado al proyecto IoT mediante [Arduino](https://github.com/leand
 
 ![Sensores de Dispositivos Móviles](https://scontent.faep28-1.fna.fbcdn.net/v/t1.6435-9/130461126_1103237026771709_168022784519881615_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1730&ctp=s2048x1730&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHlmdyFetY3MIFqpE4H9zK18zFL5uXEhkXzMUvm5cSGRZq7ULus9gbb6YliyXWH3fKAoLjG58974RPKLVK4m8Md&_nc_ohc=RzIoKW3MHo0Q7kNvwEzFd52&_nc_oc=AdoleSloLEIRL1LQ62QMH-Kqp17l8CIJYNay1getw6vB7T0acbWOGBwfV63_dAbaOEOKpUCYxQ9afH0eWSFOlGea&_nc_zt=23&_nc_ht=scontent.faep28-1.fna&_nc_gid=cFnygtSdg5WPwURtvr1rtA&_nc_ss=7b2a8&oh=00_AQSyk6pA91s-Kap51WYkQCbIqetDjX3kOy1m9cTHAy0R0w&oe=6B21AA89)
 
-* Dispositivos Móviles (Celulares, GPS, Notebook, Tablets, etc.) y Portables (Smartwatch, Smartband, etc).
+* Dispositivos Móviles (Celulares, GPS, Notebook, Tablets, etc.) y Portables (Smartwatch, Smartband, etc.)
 * Plataformas propietarias y Plataformas abiertas.
 * SDK (Software Development Kit), licencias y lenguajes de programación para las plataformas.
 * Sistema Operativo Android, componentes básicos del Framework de Android, uso del entorno de desarrollo.
@@ -120,7 +120,9 @@ Repositorio dedicado al proyecto IoT mediante [Arduino](https://github.com/leand
 
 ![Procesos en ESP32](https://media.licdn.com/dms/image/v2/D4E12AQFail-aHuEsTA/article-cover_image-shrink_720_1280/B4EZ.GjW1XIAAY-/0/1784668849038?e=1796256000&v=beta&t=GCpe63N06Fzu1we2ZvExrSgifHs7amnwC8EcDKyJq7o)
 
-![Sincronizacion de Procesos](https://scontent.faep28-1.fna.fbcdn.net/v/t39.99422-6/862186409_2024630834887762_4862312584859063767_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmr6R8UM-pSsIptQ23_ZrOrgR3Qe3H2fiuBHdB7cfZ-OYIpTBNjA1VpopnmlCPGk24B6CfKn9NnujnX31eyADs&_nc_ohc=RdJ0eUc6i8AQ7kNvwHb2lOa&_nc_oc=AdqlwaWLrcIZxh8lV86qs3nnuvqWvD4S5wY1aANXUiyEsOfMUT3jvplGWOqeQ4v3__RDac4yrmrYz4nSsQZY-e5W&_nc_zt=14&_nc_ht=scontent.faep28-1.fna&_nc_gid=j0FcLgzvWi_eXe3RHa6mkA&_nc_ss=7b2a8&oh=00_AQSXzyUpOFG_M_9_P_QxsizOTFYQmg_BtUXXel5eEFMFUA&oe=6AFFF132)
+![Sincronización de Procesos](https://scontent.faep28-1.fna.fbcdn.net/v/t39.99422-6/862186409_2024630834887762_4862312584859063767_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmr6R8UM-pSsIptQ23_ZrOrgR3Qe3H2fiuBHdB7cfZ-OYIpTBNjA1VpopnmlCPGk24B6CfKn9NnujnX31eyADs&_nc_ohc=RdJ0eUc6i8AQ7kNvwHb2lOa&_nc_oc=AdqlwaWLrcIZxh8lV86qs3nnuvqWvD4S5wY1aANXUiyEsOfMUT3jvplGWOqeQ4v3__RDac4yrmrYz4nSsQZY-e5W&_nc_zt=14&_nc_ht=scontent.faep28-1.fna&_nc_gid=j0FcLgzvWi_eXe3RHa6mkA&_nc_ss=7b2a8&oh=00_AQSXzyUpOFG_M_9_P_QxsizOTFYQmg_BtUXXel5eEFMFUA&oe=6AFFF132)
+
+![Video de Concurrencia en Sistemas Embebidos https://instagram.fepa1-1.fna.fbcdn.net/v/t51.82787-15/839232426_18635760622019894_5005243520669190296_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTQ2NjY3MTUxMjQwOTExMTE4NjM1NzYwNjE5MDE5ODk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=coOQYPIe9W4Q7kNvwEULOHh&_nc_oc=AdqZzrIpbYegeJyyBaIRNnnkPexkZuCU0keA0WFa6TlY6yvsbdsI4fls791c5vydfdec80KgsLUXT5PLLUgZcrRd&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=K_ZZEWt4dHcHt-Tgq4WbfQ&_nc_ss=7b6a8&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQThJGwrPiEZJUsriU_TZqKYUpVgSu1GxUDdLDynvjTx0A&oe=6B0007FE](https://www.instagram.com/reels/DeIELywD9QX/)
 
 * Concurrencia en Sistemas Operativos de Tiempo Real.
 * Concurrencia en Placas de Prototipado.
@@ -129,17 +131,33 @@ Repositorio dedicado al proyecto IoT mediante [Arduino](https://github.com/leand
 * Sincronización entre Procesos e Hilos.
 * Comunicación entre Procesos e Hilos.
 
-## Unidad 6 - Concepto de Arquitecturas Basadas en Servicios.
+## Unidad 6 - Concepto de Arquitecturas Basadas en Servicios
+
+![Arquitectura Basadas en Servicios - Tipos de Aplicaciones](https://aztlek.org/wp-content/uploads/2014/07/tiposdeaplicaciones_soa.png)
+
+![Arquitectura Basadas en Servicios - Características](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-8zEb3J8cQT2mT_6X4TDJgKJyjLK3R0eo3A5djd1Y5N7A0ggxBPues6J&s=10)
+
+![Arquitectura de Microservicios](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/849694741_122301261800189612_4545430631884094996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAwODU1MDE3MzkwNjg3NzgwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lpp9hEOwusgQ7kNvwH2LCQB&_nc_oc=Adpmnlm0ZYATqbWI9SUl7qEUFBAraU_GE-loXXIfEoucaYNJRGmyY_xBS_JRFbZHnf8aOfuc8xyuRGYamfBo-gly&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=UhxNT-W6v0FU_u00Gm3fYg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTrXez46GdIs9KqOvFvdyb5Y5d8xYriGv-F0J6l5aKgug&oe=6B002370)
+
+![SOAP vs REST](https://images.ctfassets.net/lzny33ho1g45/JNLA2tnVWEbD7dfJuLLw4/ed19f6c3593fd106ba95538e0fbdc924/soap-vs-rest.webp)
+
+![¿Como funciona MQTT?](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/762688985_122290302848189612_8701559905695306805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1NzMwMjIwNjAwMDgyNTY2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NSPuht3uUJoQ7kNvwEHahMk&_nc_oc=Adp3gkshC4YMjp3nP6wFi1J7E_df3f1s-6Cclxs7POGoM0npZTNfNG8QimVscOCDUw8D9PxJ75h8bjoMMO2vgC8M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=f55RF68Ve6M1B12Yy4Fb0w&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQShZcZkjRKW3P-P3LCMNgeYCjqx4VFPWhBHAuKN8n-blw&oe=6B001363)
+
+![¿Cómo funciona Kafka?](https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/764817890_122290305368189612_9049319368263728456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1Nzg3NjE0NzAxODg2MjIxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pz8tz_jjkgQQ7kNvwFwJ6lj&_nc_oc=AdqG8ytg-g5Na3R5rHbcSQfeq1_WpQZSxrefXxQOrD7302VfOja6v9aw0XvPNUyGD2jxRYJ2_THBiFxiv9OXcUAK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=FkDa7ld_m10sxrRE0_m28A&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRGlqDFsbo3LtZ3u_25Pb2Q9-1Vj-tMaZhhGTRxcMadgw&oe=6B00255F)
+
 * Concepto y estándares de SOA (Service Oriented Architecture).
 * Concepto de Microservicios.
 * Conceptos y protocolos básicos de servicios Web (Web Services).
 * Composición y coordinación de servicios Web.
 * Protocolos de intercambio de datos (XML, JSON, REST, SOAP, Productor/Consumidor (MQTT, Kafka)).
-* Herramientas Cloud (Notificaciones Push, Base de datos, etc).
+* Herramientas Cloud (Notificaciones Push, Base de datos, etc.)
 * Ejemplos prácticos.
 * Desarrollo de aplicaciones.
 
-## Unidad 7 - Concepto de Arquitecturas Reconfigurables.
+## Unidad 7 - Concepto de Arquitecturas Reconfigurables
+
+![VHDL vs FPGA](https://doc-assets.studocu.com/361d133f1e612fdc206daca78d09d620/html/bg1.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2RvYy1hc3NldHMuc3R1ZG9jdS5jb21cLzM2MWQxMzNmMWU2MTJmZGMyMDZkYWNhNzhkMDlkNjIwXC9odG1sXC8qLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDg3NTEyM319fV19&Signature=czEHw52fdUq~1GWXUT9zBZLSoZ8WI5JI6G4TtmW6RmFqKjWMg7bShGedhLYrOT7TNEJx3i5NHp52tcg-5ow9FaXeh-fGqw5brUQNqSJDkyJT6P5FQ-nLsvd5caCqgmo~CBz6sjfFThR2Gi3XKV5fYxL~62wh4qnDRErz-DQ3uFIo4nmbiHKcAZKSkgsxNvBgxyjQ0vj9W41l7SUWsV1b4c8eZ7tn2sOKNLj6gvilDmJ1uvhwNRtOsR3WRWO-7UscAa8reFrKwd6XC7yhtwVDRIJxPXwFEoHyEyfXKmUz7hVZNORUM8rqwzWsc8E82rUWI5thThO8Cgd6chDcOBm7hw__&Key-Pair-Id=APKAJ535ZH3ZAIIOADHQ)
+
 * Los dispositivos reconfigurables (FPGAs - Field Programmable Gate Array).
 * Lenguajes de descripción hardware, hardware reconfigurable, programación (VHDL y Hardware Description Language) y configuración de dispositivos reconfigurables.
 * Herramientas de diseño.
