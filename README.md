@@ -29,10 +29,6 @@
 
 ---
 
-🔗 **[Repositorio Oficial en GitHub](https://github.com/leansandoval/SistemasOperativosAvanzados)**
-
----
-
 <a id="informacion-de-la-asignatura"></a>
 ## ℹ️ Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
