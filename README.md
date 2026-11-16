@@ -227,7 +227,7 @@
     <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t51.82787-15/839232426_18635760622019894_5005243520669190296_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTQ2NjY3MTUxMjQwOTExMTE4NjM1NzYwNjE5MDE5ODk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=coOQYPIe9W4Q7kNvwEULOHh&_nc_oc=AdqZzrIpbYegeJyyBaIRNnnkPexkZuCU0keA0WFa6TlY6yvsbdsI4fls791c5vydfdec80KgsLUXT5PLLUgZcrRd&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=K_ZZEWt4dHcHt-Tgq4WbfQ&_nc_ss=7b6a8&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQThJGwrPiEZJUsriU_TZqKYUpVgSu1GxUDdLDynvjTx0A&oe=6B0007FE" alt="Video de Concurrencia en Sistemas Embebidos" width="450" />
   </a>
   <br>
-  <sup><em>▶️ Haz clic para ver el reel explicativo sobre Concurrencia en Sistemas Embebidos en Instagram</em></sup>
+  <sup><em>▶️ Hace clic en la imagen para ver el reel explicativo sobre Concurrencia en Sistemas Embebidos en Instagram</em></sup>
 </div>
 <br>
 
