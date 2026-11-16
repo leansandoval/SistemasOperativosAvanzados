@@ -150,11 +150,11 @@
   <br>
   <sup><em>Arquitectura en capas y procesamiento de datos en IoT</em></sup>
   <br><br>
-  <img src="https://www.researchgate.net/profile/Nelson-Rodriguez-4/publication/314236520/figure/fig1/AS:483034668507136@1492175847971/Figura-1-Comparacion-de-la-interaccion-entre-M2M-e-IoT.png" alt="M2M vs IoT" width="450" />
+  <img width="850" height="401" alt="M2M vs IoT" src="https://github.com/user-attachments/assets/98c788ec-87ca-4c28-b26b-d1ae38144e81" />
   <br>
   <sup><em>Comparativa entre comunicación M2M e integración IoT</em></sup>
   <br><br>
-  <img src="https://www.researchgate.net/profile/Anatol-Badach/publication/331473327/figure/fig2/AS:732081525096449@1551553245171/mportance-of-Cloud-Computing-Fog-Computing-and-Edge-Computing-in-the-IoT.png" alt="Cloud, Fog, Edge y Mist Computing" width="450" />
+  <img width="850" height="717" alt="Cloud, Fog, Edge y Mist Computing" src="https://github.com/user-attachments/assets/541f2f84-1cc4-47f6-8c21-7b9b547cbd41" />
   <br>
   <sup><em>Jerarquía de procesamiento: Cloud, Fog, Edge y Mist Computing</em></sup>
 </div>
