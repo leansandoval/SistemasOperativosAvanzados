@@ -107,21 +107,21 @@
 ## Unidad 2 - Sistemas Operativos Embebidos
 
 <div align="center">
-  <img src="https://scontent.fepa1-1.fna.fbcdn.net/v/t39.30808-6/641543334_1320814826760356_4608410064190123811_n.jpg?stp=dst-jpg_tt6&cstp=mx1650x2048&ctp=s1650x2048&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG8F9vF2qHBNhIoNgA7UWeykSsc-yvGEriRKxz7K8YSuAjPyQkUb8AipLzDwl_xinvDv5KygpYfjglnL-Iesxcd&_nc_ohc=C2nqnX2YlRgQ7kNvwHDV8A9&_nc_oc=AdpMXfZU6dV-fQZ6SOwJZJJYS8UOGj2OwzjOBZQcx0BVhrbzJzUeGV7yH2EdJnMt62xSj8ExHIuA215NpxTzcEGL&_nc_zt=23&_nc_ht=scontent.fepa1-1.fna&_nc_gid=h_LClqdQ3Kk74-YI00b4CA&_nc_ss=7b2a8&oh=00_AQTAspdQTNjkFbac9BcznzNYHp0sVjBrKjEX2UkAfuDn_Q&oe=6AFFE119" alt="Sistemas Embebidos" width="450" />
+  <img width="700" alt="Sistemas Embebidos" src="https://github.com/user-attachments/assets/ec300c61-1342-4084-87fc-8c7ff0c1d482" />
   <br>
   <sup><em>Estructura y concepto de los Sistemas Embebidos</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/746694387_1305410894948918_8566778012266333535_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0MDQyMTQyOTc5MTM3MzU4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE5MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mQKHiLthTrEQ7kNvwFDPU3A&_nc_oc=Adq48IshSoIrcO00TrjuN5PSjcx58pp6zT4Wpn3kso6Ebzyy5g4AxxyPHBSaJHoXs0gc6Ouh4u61jMYM-6qv_sUI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=Ac1bkvoG_sIyLOG7lqVQNQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRKJp50CQh6taj-HQuHlviwU7M9JvTRNO03PmapMWTUcw&oe=6AFFEF7F" alt="¿Cómo funcionan los Sistemas Embebidos?" width="450" />
+  <img width="700" alt="¿Cómo funcionan los Sistemas Embebidos?" src="https://github.com/user-attachments/assets/e100c498-1297-44da-8e1b-19fe9ef9a3fb" />
   <br>
-  <sup><em>Funcionamiento interno y arquitectura de microcontroladores</em></sup>
+  <sup><em>¿Cómo funcionan los Sistemas Embebidos?</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/725291889_122173572440647901_5352907478996289778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=MzkyMDg5NTExNDAwNTc1MDY3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA8MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-KyALsyuP8UQ7kNvwGlGUmU&_nc_oc=AdqISIMDyYiIdPtpbnVKjNT6-b7j4tOt1Bl-IxnqJPZ-rBMJdbZ2vkCmUspc9f9j1zCnbCmjrTjqeT7ipUpdKQQk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=2SmIYa29pxSYS_hlGvSxzg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRfONcgKQP74KUBHGv5M8iy2AEM4dS62kzOsm2ZkWh6MA&oe=6AFFEC58" alt="Sensores vs Actuadores" width="450" />
+  <img width="700" alt="Sensores vs Actuadores" src="https://github.com/user-attachments/assets/7bf9dce9-1e71-4c08-bd16-bd67a8c7a165" />
   <br>
   <sup><em>Diferencias e interacción entre Sensores y Actuadores</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/856462701_122152312185027568_107764972172766343_n.jpg?stp=c0.310.1143.1428a_dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMTgyMDkzMTQ2NzI4NTU5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE0My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xSaJImrgM9oQ7kNvwEJNBMw&_nc_oc=AdpSwoN2aEgNIKucd1Xmkd7AEqMqy_fEhKLZsfPS_s9KkO-2m0rSkD4za1opVzRRibzspycSl-apLEVJuswiIlM5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=XfjHtq9MwUuZ9OHg9yKmcA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQ5EqneRr26ybCze8Ag4NvANJKtalFzBM6pr3q9EZcRuQ&oe=6B000B97" alt="Recomendaciones con Arduino" width="450" />
+  <img width="700" alt="Recomendaciones con Arduino" src="https://github.com/user-attachments/assets/56fc35d0-8153-45d1-8b89-b847a9d4c382" />
   <br>
-  <sup><em>Buenas prácticas y prototipado con placas Arduino</em></sup>
+  <sup><em>Métodos seguros para conectar placas Arduino</em></sup>
 </div>
 <br>
 
@@ -142,11 +142,11 @@
 ## Unidad 3 - IoT - Internet de Las Cosas
 
 <div align="center">
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/700334128_122278747766189612_5867930516524593217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMDYxODgxNDAyMzU4MTQwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIzOS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lUyKJ0cJwFUQ7kNvwFF7ADo&_nc_oc=AdpgT_UPu0HJVgrQ-NLij2Pc4SB-GSGtPi0PzrefjDrMVieNX8x3PvYzX901JzL_0mtxsLqNOc4poecx_7MTNpAJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=cKevJfrBUshvB9WRmx9jlw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRZunlpIdjCLuZtI4rsXn3yYr_GBrc1UL61WZG5lE1bZg&oe=6AFFE7D0" alt="Internet de las Cosas - Versión I" width="450" />
+  <img width="700" alt="Internet de las Cosas - Versión I" src="https://github.com/user-attachments/assets/c7ee1a8b-2fee-4c96-83f5-f11d062bed78" />
   <br>
   <sup><em>Ecosistema y conexión global de dispositivos IoT</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/715255145_122281147406189612_6001483171561121805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMjgwOTg1NzQ2MDE6ODU3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Kxt5JZZBbTQQ7kNvwE5uATf&_nc_oc=AdoiAJHsngS6oroqsDQCNdS_Cvx49PnGFlrlUY81wpOYSUyHdNSFz5bhIJnYKnov6harCJRniWIPs_xfCZoj_fvB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=oj-ExFm4bBr458ZBhSMfhA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSoAeaSIEJbzHu9wZHrk9_MEKxlHq2OhhixEJBg_SQEaw&oe=6AFFE52A" alt="Internet de las Cosas - Versión II" width="450" />
+  <img width="700" alt="Internet de las Cosas - Versión II" src="https://github.com/user-attachments/assets/07ac089c-d081-44b6-93b3-6f1680e3a070" />
   <br>
   <sup><em>Arquitectura en capas y procesamiento de datos en IoT</em></sup>
   <br><br>
@@ -181,11 +181,11 @@
   <br>
   <sup><em>Capas de la arquitectura del Sistema Operativo Android</em></sup>
   <br><br>
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/714363659_1272812948208713_8113523752176066474_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDgyMjEwNTU1ODk3Mzk5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=4lH3g16KJyMQ7kNvwG1rg-i&_nc_oc=Adof4l5VoSn82GuJQqfcUR08Mtwfm44aWcRIArXvWv6ef8xbHZZFjEifRWQSP5AVLNrAj9oCAITCuB8S8V2x0Fne&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=Q0_dY8T40Y_fWZEVt18v4Q&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRwm3AFjIMbWoWVFXE5PrsFUfCrukNLYtkGNx1d92iEkA&oe=6B0009AA" alt="Kotlin" width="450" />
+  <img width="700" alt="Kotlin" src="https://github.com/user-attachments/assets/05c1c844-1ff5-483d-b81c-0d0c5c8aa819" />
   <br>
   <sup><em>Desarrollo nativo en Android con Kotlin</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-1.fna.fbcdn.net/v/t1.6435-9/130461126_1103237026771709_168022784519881615_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1730&ctp=s2048x1730&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHlmdyFetY3MIFqpE4H9zK18zFL5uXEhkXzMUvm5cSGRZq7ULus9gbb6YliyXWH3fKAoLjG58974RPKLVK4m8Md&_nc_ohc=RzIoKW3MHo0Q7kNvwEzFd52&_nc_oc=AdoleSloLEIRL1LQ62QMH-Kqp17l8CIJYNay1getw6vB7T0acbWOGBwfV63_dAbaOEOKpUCYxQ9afH0eWSFOlGea&_nc_zt=23&_nc_ht=scontent.faep28-1.fna&_nc_gid=cFnygtSdg5WPwURtvr1rtA&_nc_ss=7b2a8&oh=00_AQSyk6pA91s-Kap51WYkQCbIqetDjX3kOy1m9cTHAy0R0w&oe=6B21AA89" alt="Sensores de Dispositivos Móviles" width="450" />
+  <img width="700" alt="Sensores de Dispositivos Móviles" src="https://github.com/user-attachments/assets/35cfe2bd-a921-4e10-ba22-48a3bfa98028" />
   <br>
   <sup><em>Gestión y lectura de sensores integrados en dispositivos móviles</em></sup>
 </div>
@@ -207,24 +207,24 @@
 ## Unidad 5 - Concurrencia en Sistemas Embebidos
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/858851566_1531831495631339_3575558918785142394_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMzA3ODcyOTU0Mjk3Nzk2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ziTzFSCDPUIQ7kNvwG5VCBC&_nc_oc=AdoSO3E4z0Npjjv2PULRn5BkaISV2PKkD1jMJXktOP6d3IsvPUmVSHTnmUIRN1SqOXwyyLKh8Ojh4MrUm6Hp6n0N&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=05N9OgIZe8RtDGn00QuPvg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQNG-KAsxV2iSSBK8goOfKBKpeuLDEcNB4pm7d5fLKiYA&oe=6B000D69" alt="Procesos vs Hilos" width="450" />
+  <img width="700" alt="Procesos vs Hilos" src="https://github.com/user-attachments/assets/584f6e40-33b3-4c7a-92a2-a6b9d9306679" />
   <br>
   <sup><em>Diferencias estructurales entre Procesos e Hilos</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/683714938_122276122634189612_1507329105842615649_n.jpg?stp=dst-jpg_tt6&cstp=mx928x1152&ctp=s928x1152&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFVA_QGRx78ypDlxUVz4PeJQFjlj64Wq5JAWOWPrharkuZKPpQFDHrRwLG9m-WUzvW7YLmn8DhG_wTnDsIrvG0C&_nc_ohc=w8ABzlRbQ48Q7kNvwE7mMpd&_nc_oc=AdoPDb8Jxi8-CvV3OugZrHzdN8KnRxPRF8mclS9xW3VF2-cM0ENC6eyxZMhpHELRfo2bcPyCPhJRN1pAJRcluHZZ&_nc_zt=23&_nc_ht=scontent.faep28-2.fna&_nc_gid=fm3PbTVdYnD-sfz_NwtNcg&_nc_ss=7b2a8&oh=00_AQQ8584QvJnP_IWOeKSpI45e_XNlVB2WpACYgP-RxHlpAg&oe=6AFFE9BE" alt="Concurrencia vs Paralelismo" width="450" />
+  <img width="700" alt="Concurrencia vs Paralelismo" src="https://github.com/user-attachments/assets/a85aff8e-608c-4fc7-9c79-58c3dc8ed1ac" />
   <br>
   <sup><em>Concurrencia vs Paralelismo en ejecución de tareas</em></sup>
   <br><br>
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQFail-aHuEsTA/article-cover_image-shrink_720_1280/B4EZ.GjW1XIAAY-/0/1784668849038?e=1796256000&v=beta&t=GCpe63N06Fzu1we2ZvExrSgifHs7amnwC8EcDKyJq7o" alt="Procesos en ESP32" width="450" />
+  <img width="700" alt="Procesos en ESP32" src="https://github.com/user-attachments/assets/ae69a3b5-2339-492f-8be5-786b735ae6c4" />
   <br>
   <sup><em>Ejecución de procesos y FreeRTOS en microcontroladores ESP32</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-1.fna.fbcdn.net/v/t39.99422-6/862186409_2024630834887762_4862312584859063767_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmr6R8UM-pSsIptQ23_ZrOrgR3Qe3H2fiuBHdB7cfZ-OYIpTBNjA1VpopnmlCPGk24B6CfKn9NnujnX31eyADs&_nc_ohc=RdJ0eUc6i8AQ7kNvwHb2lOa&_nc_oc=AdqlwaWLrcIZxh8lV86qs3nnuvqWvD4S5wY1aANXUiyEsOfMUT3jvplGWOqeQ4v3__RDac4yrmrYz4nSsQZY-e5W&_nc_zt=14&_nc_ht=scontent.faep28-1.fna&_nc_gid=j0FcLgzvWi_eXe3RHa6mkA&_nc_ss=7b2a8&oh=00_AQSXzyUpOFG_M_9_P_QxsizOTFYQmg_BtUXXel5eEFMFUA&oe=6AFFF132" alt="Sincronización de Procesos" width="450" />
+  <img width="700" alt="Sincronización de Procesos" src="https://github.com/user-attachments/assets/45588564-0f22-4e47-b068-948fc4c2908c" />
   <br>
   <sup><em>Mecanismos de sincronización y exclusión mutua</em></sup>
   <br><br>
   <a href="https://www.instagram.com/reels/DeIELywD9QX/" target="_blank">
-    <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t51.82787-15/839232426_18635760622019894_5005243520669190296_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTQ2NjY3MTUxMjQwOTExMTE4NjM1NzYwNjE5MDE5ODk0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=coOQYPIe9W4Q7kNvwEULOHh&_nc_oc=AdqZzrIpbYegeJyyBaIRNnnkPexkZuCU0keA0WFa6TlY6yvsbdsI4fls791c5vydfdec80KgsLUXT5PLLUgZcrRd&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=K_ZZEWt4dHcHt-Tgq4WbfQ&_nc_ss=7b6a8&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQThJGwrPiEZJUsriU_TZqKYUpVgSu1GxUDdLDynvjTx0A&oe=6B0007FE" alt="Video de Concurrencia en Sistemas Embebidos" width="450" />
+    <img width="700" alt="Video de Concurrencia en Sistemas Embebidos" src="https://github.com/user-attachments/assets/cb51a516-5399-41f7-b6c6-96443c22d7f9" />
   </a>
   <br>
   <sup><em>▶️ Hace clic en la imagen para ver el reel explicativo sobre Concurrencia en Sistemas Embebidos en Instagram</em></sup>
@@ -252,7 +252,7 @@
   <br>
   <sup><em>Principales características y desacoplamiento de servicios</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/849694741_122301261800189612_4545430631884094996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAwODU1MDE3MzkwNjg3NzgwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lpp9hEOwusgQ7kNvwH2LCQB&_nc_oc=Adpmnlm0ZYATqbWI9SUl7qEUFBAraU_GE-loXXIfEoucaYNJRGmyY_xBS_JRFbZHnf8aOfuc8xyuRGYamfBo-gly&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=UhxNT-W6v0FU_u00Gm3fYg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTrXez46GdIs9KqOvFvdyb5Y5d8xYriGv-F0J6l5aKgug&oe=6B002370" alt="Arquitectura de Microservicios" width="450" />
+  <img width="700" alt="Arquitectura de Microservicios" src="https://github.com/user-attachments/assets/866aab28-3387-4428-8cb3-6ab3f24ca923" />
   <br>
   <sup><em>Patrón de Arquitectura distribuida basada en Microservicios</em></sup>
   <br><br>
@@ -260,11 +260,11 @@
   <br>
   <sup><em>Comparativa entre protocolos Web Services: SOAP vs REST</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/762688985_122290302848189612_8701559905695306805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NzMwMjIwNjAwMDgyNTY2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NSPuht3uUJoQ7kNvwEHahMk&_nc_oc=Adp3gkshC4YMjp3nP6wFi1J7E_df3f1s-6Cclxs7POGoM0npZTNfNG8QimVscOCDUw8D9PxJ75h8bjoMMO2vgC8M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=f55RF68Ve6M1B12Yy4Fb0w&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQShZcZkjRKW3P-P3LCMNgeYCjqx4VFPWhBHAuKN8n-blw&oe=6B001363" alt="¿Como funciona MQTT?" width="450" />
+  <img width="700" alt="Funcionamiento del protocolo de mensajería liviano MQTT (Publish/Subscribe)" src="https://github.com/user-attachments/assets/3e4d7ccb-691b-465c-a9d4-29c8b38e6767" />
   <br>
   <sup><em>Funcionamiento del protocolo de mensajería liviano MQTT (Publish/Subscribe)</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/764817890_122290305368189612_9049319368263728456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1Nzg3NjE0NzAxODg2MjIxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pz8tz_jjkgQQ7kNvwFwJ6lj&_nc_oc=AdqG8ytg-g5Na3R5rHbcSQfeq1_WpQZSxrefXxQOrD7302VfOja6v9aw0XvPNUyGD2jxRYJ2_THBiFxiv9OXcUAK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=FkDa7ld_m10sxrRE0_m28A&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRGlqDFsbo3LtZ3u_25Pb2Q9-1Vj-tMaZhhGTRxcMadgw&oe=6B00255F" alt="¿Cómo funciona Kafka?" width="450" />
+  <img width="700" alt="¿Cómo funciona Kafka?" src="https://github.com/user-attachments/assets/6ed715e0-3530-4f3a-aa2c-f4787ebf15e7" />
   <br>
   <sup><em>Streaming de eventos distribuido con Apache Kafka</em></sup>
 </div>
