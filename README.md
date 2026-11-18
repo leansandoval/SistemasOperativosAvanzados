@@ -75,15 +75,15 @@
 ## Unidad 1 - Sistemas Operativos de Tiempo Real (SOTR - RTOS)
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFEB2EpQRcc2A/feedshare-image-high-res/B4DZ2m0b_FHwAY-/0/1776620257490?e=1796256000&v=beta&t=3VvHln1oA5moJm3JNG82NhumlkJeYABDtoafVogIe0s" alt="Introducción SOTR" width="450" />
+  <img width="700" alt="Introducción SOTR" src="https://github.com/user-attachments/assets/d8967b47-b6ee-4062-8a07-753050cfb724" />
   <br>
   <sup><em>Introducción a los Sistemas Operativos de Tiempo Real (SOTR)</em></sup>
   <br><br>
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250915124141832427/Components-of-Real-Time-Operating-System.webp" alt="Características de un SOTR" width="450" />
+  <img width="700" alt="Características de un SOTR" src="https://github.com/user-attachments/assets/a0a324d6-086e-4bdc-9fc6-6a9775058d4a" />
   <br>
   <sup><em>Componentes y características principales de un RTOS</em></sup>
   <br><br>
-  <img src="https://cdn.shopify.com/s/files/1/0559/1970/6265/files/functionality_of_RTOS_480x480.jpg?v=1652780045" alt="Arquitectura de SOTR" width="450" />
+  <img width="700" alt="Arquitectura de SOTR" src="https://github.com/user-attachments/assets/93b63673-84e9-4b4d-8e29-6011d7a18e45" />
   <br>
   <sup><em>Arquitectura del Kernel y gestión de tareas en tiempo real</em></sup>
 </div>
@@ -150,11 +150,11 @@
   <br>
   <sup><em>Arquitectura en capas y procesamiento de datos en IoT</em></sup>
   <br><br>
-  <img width="850" height="401" alt="M2M vs IoT" src="https://github.com/user-attachments/assets/98c788ec-87ca-4c28-b26b-d1ae38144e81" />
+  <img width="700" alt="M2M vs IoT" src="https://github.com/user-attachments/assets/98c788ec-87ca-4c28-b26b-d1ae38144e81" />
   <br>
   <sup><em>Comparativa entre comunicación M2M e integración IoT</em></sup>
   <br><br>
-  <img width="850" height="717" alt="Cloud, Fog, Edge y Mist Computing" src="https://github.com/user-attachments/assets/541f2f84-1cc4-47f6-8c21-7b9b547cbd41" />
+  <img width="700" alt="Cloud, Fog, Edge y Mist Computing" src="https://github.com/user-attachments/assets/541f2f84-1cc4-47f6-8c21-7b9b547cbd41" />
   <br>
   <sup><em>Jerarquía de procesamiento: Cloud, Fog, Edge y Mist Computing</em></sup>
 </div>
@@ -177,7 +177,7 @@
 ## Unidad 4 - Sistemas Operativos Móviles
 
 <div align="center">
-  <img src="https://cyber0asis.com/wp-content/uploads/2026/07/Arquitectura_Android-1024x683.webp" alt="Arquitectura Android" width="450" />
+  <img width="700" alt="Arquitectura Android" src="https://github.com/user-attachments/assets/806a6d3a-eeae-4ef3-b1e2-95fead5c913d" />
   <br>
   <sup><em>Capas de la arquitectura del Sistema Operativo Android</em></sup>
   <br><br>
@@ -244,11 +244,11 @@
 ## Unidad 6 - Concepto de Arquitecturas Basadas en Servicios
 
 <div align="center">
-  <img src="https://aztlek.org/wp-content/uploads/2014/07/tiposdeaplicaciones_soa.png" alt="Arquitectura Basadas en Servicios - Tipos de Aplicaciones" width="450" />
+  <img width="700" alt="Arquitectura Basadas en Servicios - Tipos de Aplicaciones" src="https://github.com/user-attachments/assets/75d938fe-6e96-4eb8-981b-a2c5f0d837c2" />
   <br>
   <sup><em>Tipos de aplicaciones en Arquitecturas Orientadas a Servicios (SOA)</em></sup>
   <br><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-8zEb3J8cQT2mT_6X4TDJgKJyjLK3R0eo3A5djd1Y5N7A0ggxBPues6J&s=10" alt="Arquitectura Basadas en Servicios - Características" width="450" />
+  <img width="700" alt="Arquitectura Basadas en Servicios - Características" src="https://github.com/user-attachments/assets/11596f30-4b00-4495-a52b-a17b3f28681f" />
   <br>
   <sup><em>Principales características y desacoplamiento de servicios</em></sup>
   <br><br>
@@ -256,7 +256,7 @@
   <br>
   <sup><em>Patrón de Arquitectura distribuida basada en Microservicios</em></sup>
   <br><br>
-  <img src="https://images.ctfassets.net/lzny33ho1g45/JNLA2tnVWEbD7dfJuLLw4/ed19f6c3593fd106ba95538e0fbdc924/soap-vs-rest.webp" alt="SOAP vs REST" width="450" />
+  <img width="700" alt="SOAP vs REST" src="https://github.com/user-attachments/assets/4dbae31b-99ee-4738-9e46-d99b79144385" />
   <br>
   <sup><em>Comparativa entre protocolos Web Services: SOAP vs REST</em></sup>
   <br><br>
@@ -285,7 +285,7 @@
 ## Unidad 7 - Concepto de Arquitecturas Reconfigurables
 
 <div align="center">
-  <img src="https://doc-assets.studocu.com/361d133f1e612fdc206daca78d09d620/html/bg1.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6XC9cL2RvYy1hc3NldHMuc3R1ZG9jdS5jb21cLzM2MWQxMzNmMWU2MTJmZGMyMDZkYWNhNzhkMDlkNjIwXC9odG1sXC8qLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDg3NTEyM319fV19&Signature=czEHw52fdUq~1GWXUT9zBZLSoZ8WI5JI6G4TtmW6RmFqKjWMg7bShGedhLYrOT7TNEJx3i5NHp52tcg-5ow9FaXeh-fGqw5brUQNqSJDkyJT6P5FQ-nLsvd5caCqgmo~CBz6sjfFThR2Gi3XKV5fYxL~62wh4qnDRErz-DQ3uFIo4nmbiHKcAZKSkgsxNvBgxyjQ0vj9W41l7SUWsV1b4c8eZ7tn2sOKNLj6gvilDmJ1uvhwNRtOsR3WRWO-7UscAa8reFrKwd6XC7yhtwVDRIJxPXwFEoHyEyfXKmUz7hVZNORUM8rqwzWsc8E82rUWI5thThO8Cgd6chDcOBm7hw__&Key-Pair-Id=APKAJ535ZH3ZAIIOADHQ" alt="VHDL vs FPGA" width="450" />
+  <img width="700" alt="VHDL y FPGA" src="https://github.com/user-attachments/assets/f0c2512e-7cba-4362-a12a-7c41d71aa6e9" />
   <br>
   <sup><em>Lógica reconfigurable en FPGAs y descripción en VHDL</em></sup>
 </div>
